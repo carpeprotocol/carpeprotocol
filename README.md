@@ -133,5 +133,5 @@ Stay updated and engage with us:
 
 ---
 
-![Carpe Protocol](carpe-protocol.png)
-![Poseidon](poseidon.png)
+![Carpe Protocol](carpe-protocols.png)
+![Poseidon](poseidons.png)
